@@ -66,7 +66,7 @@ O LYS propõe um fluxo técnico dividido em etapas:
 </p>
 
 ---
-##Navegação do Protótipo
+### Navegação do Protótipo
 
 O protótipo navegável do LYS está sendo desenvolvido no Figma com foco em fluxos reais de atendimento para lash designers.
 [Abrir Protótipo no Figma](https://www.figma.com/proto/Aco91NB61rIrfLlwRVkgo9/Prot%C3%B3tipo-naveg%C3%A1vel?node-id=1-2&p=f&t=KncxrwM8tiSYGcuq-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
