@@ -54,7 +54,7 @@ O LYS propõe um fluxo técnico dividido em etapas:
 ## Protótipo Inicial
 
 ### Tela Inicial
-![Home Screen](assets/screens/Home-screens.png)
+![Home Screen](assets/screens/Home-screen.png)
 
 ---
 
