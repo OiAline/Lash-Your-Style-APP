@@ -53,18 +53,19 @@ O LYS propõe um fluxo técnico dividido em etapas:
 
 ## Protótipo Inicial
 
-### Tela Inicial
-![Home Screen](Assets/screens/Home-screen.png)
+<p align="center">
+  <img src="Assets/screens/Home-screen.png" width="300"/>
+</p>
+
+<p align="center">
+  <img src="Assets/screens/Analysis-validation.png" width="300"/>
+</p>
+
+<p align="center">
+  <img src="Assets/screens/Analysis-result.png" width="300"/>
+</p>
 
 ---
-
-### Fluxo de Análise
-![Analysis Validation](Assets/screens/Analysys-validation.png)
-
----
-
-### Resultado da Análise
-![Analysis Result](Assets/screens/Analysis-result.png)
 ## Estrutura do projeto
 
 ```text
