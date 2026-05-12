@@ -64,7 +64,7 @@ O LYS propõe um fluxo técnico dividido em etapas:
 ---
 
 ### Resultado da Análise
-![Analysis Result](assets/screens/Analysis-result.png)
+![Analysis Result](Assets/screens/Analysis-result.png)
 ## Estrutura do projeto
 
 ```text
