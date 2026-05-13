@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/banner-v1.png"/>
+</p>
+
 # Lash Your Style (LYS)
 
 Aplicativo profissional para lash designers focado em análise morfológica do olhar, construção técnica de mapping personalizado e simulação visual baseada em fios reais.
