@@ -1,20 +1,167 @@
-# Roadmap do Projeto
+# Mapping Engine - Checklist
 
-## Fase Atual
-- [x] Estruturação do repositório
-- [x] Protótipo inicial
-- [x] Documentação base
-- [x] Banner do projeto
-- [x] Organização dos fluxos
-- [x] Arquitetura inicial
+## Arquitetura da Engine
 
-## MVP
-- [ ] Fluxo de análise
-- [ ] Construção de mapping
-- [ ] Histórico de atendimento
-- [ ] Simulação visual
+- [x] Definir objetivo da Mapping Engine
+- [x] Definir fluxo macro da engine
+- [x] Definir ordem de processamento das informações
+- [x] Separar regras gerais das regras específicas dos formatos
+- [x] Definir prioridade das decisões da engine
+- [x] Definir papel do desejo da cliente
+- [x] Definir papel dos estilos visuais
 
-## Futuro
-- [ ] IA de análise
-- [ ] Comparação inteligente
-- [ ] Sugestões automáticas
+---
+
+# Base de Conhecimento
+
+## Formatos de Olho
+
+- [x] Definir estrutura padrão de documentação dos formatos
+- [x] Documentar olho amendoado
+- [ ] Documentar olho redondo
+- [ ] Documentar olho monólido
+- [ ] Documentar olho encapuzado
+- [ ] Revisar mappings permitidos de todos os formatos
+- [ ] Revisar mappings proibidos de todos os formatos
+
+---
+
+## Inclinação
+
+- [x] Definir papel da inclinação na engine
+- [x] Identificar restrições da inclinação caída
+- [x] Identificar características da inclinação neutra
+- [x] Identificar características da inclinação elevada
+- [ ] Formalizar tabela definitiva de restrições por inclinação
+- [ ] Criar exemplos de adaptação de mapping por inclinação
+
+---
+
+## Profundidade
+
+- [x] Definir papel da profundidade na engine
+- [x] Identificar comportamento de olhos profundos
+- [x] Identificar comportamento de olhos protusos
+- [x] Identificar comportamento de olhos neutros
+- [ ] Formalizar tabela definitiva de curvaturas permitidas
+- [ ] Revisar possíveis exceções
+
+---
+
+## Espaço Palpebral
+
+- [x] Definir papel do espaço palpebral na engine
+- [x] Identificar restrições de espaço pequeno
+- [ ] Definir comprimentos máximos por categoria
+- [ ] Formalizar tabela definitiva de comprimentos
+- [ ] Revisar possíveis exceções
+
+---
+
+## Estrutura do Fio Natural
+
+- [x] Definir papel da estrutura do fio na engine
+- [x] Definir limites para fios delicados
+- [x] Definir limites para fios médios
+- [x] Definir limites para fios fortes
+- [ ] Formalizar tabela definitiva de volumes permitidos
+- [ ] Revisar possíveis exceções
+
+---
+
+## Desejo da Cliente
+
+- [x] Levantar desejos mais comuns
+- [x] Definir que o desejo não sobrepõe restrições técnicas
+- [ ] Traduzir cada desejo em objetivo estético
+- [ ] Relacionar desejos aos estilos visuais
+- [ ] Criar tabela final de desejos
+
+---
+
+## Estilos Visuais
+
+- [x] Criar página de estilos visuais
+- [x] Identificar principais estilos
+- [x] Definir que estilos visuais não geram restrições próprias
+- [x] Definir que estilos visuais dependem das decisões anteriores
+- [ ] Documentar características de cada estilo
+- [ ] Definir parâmetros visuais de cada estilo
+- [ ] Relacionar estilos visuais aos desejos da cliente
+- [ ] Revisar possíveis estilos adicionais
+
+---
+
+# Segmentação Base
+
+- [ ] Definir segmentação padrão do Gatinho
+- [ ] Definir segmentação padrão do Esquilo
+- [ ] Definir segmentação padrão da Boneca
+- [ ] Definir segmentação padrão dos demais mappings
+- [ ] Definir adaptação da segmentação aos limites de comprimento
+- [ ] Criar tabela geral de segmentações
+
+---
+
+# Conflitos Técnicos
+
+- [ ] Catalogar conflitos conhecidos
+- [ ] Definir regra de resolução para cada conflito
+- [ ] Criar tabela oficial de conflitos
+
+### Conflitos a documentar
+
+- [ ] Gatinho × Inclinação caída
+- [ ] Mega volume × Fio delicado
+- [ ] Comprimento longo × Espaço pequeno
+- [ ] Curvatura inadequada × Profundidade
+- [ ] Outros conflitos identificados durante a documentação
+
+---
+
+# Fundamentos Técnicos
+
+- [ ] Associar fundamentação a todas as regras principais
+- [ ] Revisar justificativas técnicas
+- [ ] Eliminar redundâncias
+
+---
+
+# Regras de Exceção
+
+- [ ] Criar página de exceções
+- [ ] Identificar exceções por formato
+- [ ] Identificar exceções por combinação de características
+- [ ] Criar tabela oficial de exceções
+
+---
+
+# Resultado da Engine
+
+- [ ] Definir entrada oficial da engine
+- [ ] Definir saída oficial da engine
+- [ ] Documentar estrutura de recomendação final
+- [ ] Documentar justificativas técnicas da recomendação
+
+---
+
+# Casos de Teste
+
+- [ ] Definir estrutura padrão dos testes
+- [ ] Criar primeiros casos de teste
+- [ ] Criar testes para todos os formatos
+- [ ] Criar testes para conflitos
+- [ ] Criar testes para exceções
+- [ ] Criar testes de validação final da engine
+
+---
+
+# Revisão Final da Engine
+
+- [ ] Revisar toda a Base de Conhecimento
+- [ ] Revisar todas as tabelas
+- [ ] Revisar conflitos técnicos
+- [ ] Revisar exceções
+- [ ] Revisar casos de teste
+- [ ] Validar fluxo completo da engine
+- [ ] Preparar documentação para implementação
