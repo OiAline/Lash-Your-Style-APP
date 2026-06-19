@@ -20,7 +20,6 @@
 - [x] Documentar olho amendoado
 - [x] Documentar olho redondo
 - [x] Documentar olho monólido
-- [ ] Documentar olho encapuzado
 - [ ] Revisar mappings permitidos de todos os formatos
 - [ ] Revisar mappings proibidos de todos os formatos
 
@@ -65,6 +64,20 @@
 - [x] Definir limites para fios médios
 - [x] Definir limites para fios fortes
 - [ ] Formalizar tabela definitiva de volumes permitidos
+- [ ] Revisar possíveis exceções
+
+---
+
+## Cobertura Palpebral
+
+- [ ] Validar se olho encapuzado deve ser tratado como característica ou formato
+- [ ] Levantar referências técnicas sobre classificação de olhos encapuzados
+- [ ] Analisar exemplos reais de clientes
+- [ ] Definir impacto da cobertura palpebral nos mappings
+- [ ] Definir impacto da cobertura palpebral nas curvaturas
+- [ ] Definir impacto da cobertura palpebral nos comprimentos
+- [ ] Formalizar tabela de cobertura palpebral
+- [ ] Criar regras da característica "Encapuzado"
 - [ ] Revisar possíveis exceções
 
 ---
