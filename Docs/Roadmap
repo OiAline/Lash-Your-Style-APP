@@ -70,15 +70,15 @@
 
 ## Cobertura Palpebral
 
-- [ ] Validar se olho encapuzado deve ser tratado como característica ou formato
-- [ ] Levantar referências técnicas sobre classificação de olhos encapuzados
-- [ ] Analisar exemplos reais de clientes
-- [ ] Definir impacto da cobertura palpebral nos mappings
-- [ ] Definir impacto da cobertura palpebral nas curvaturas
-- [ ] Definir impacto da cobertura palpebral nos comprimentos
-- [ ] Formalizar tabela de cobertura palpebral
-- [ ] Criar regras da característica "Encapuzado"
-- [ ] Revisar possíveis exceções
+- [x] Validar se olho encapuzado deve ser tratado como característica ou formato
+- [x] Levantar referências técnicas sobre classificação de olhos encapuzados
+- [x] Analisar exemplos reais de clientes
+- [x] Definir impacto da cobertura palpebral nos mappings
+- [x] Definir impacto da cobertura palpebral nas curvaturas
+- [x] Definir impacto da cobertura palpebral nos comprimentos
+- [x] Formalizar tabela de cobertura palpebral
+- [x] Criar regras da característica "Encapuzado"
+- [x] Revisar possíveis exceções
 
 ---
 
