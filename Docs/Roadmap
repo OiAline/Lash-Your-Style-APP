@@ -86,9 +86,33 @@
 
 - [x] Levantar desejos mais comuns
 - [x] Definir que o desejo não sobrepõe restrições técnicas
-- [ ] Traduzir cada desejo em objetivo estético
-- [ ] Relacionar desejos aos estilos visuais
-- [ ] Criar tabela final de desejos
+
+### Perfil Estético
+
+- [ ] Definir eixos de intenção estética
+- [ ] Agrupar palavras equivalentes
+- [ ] Criar tabela de pesos por intenção estética
+- [ ] Definir prioridade entre intenções conflitantes
+
+### Tradução da Linguagem da Cliente
+
+- [ ] Mapear frases comuns para intenções estéticas
+- [ ] Definir interpretação de combinações de frases
+- [ ] Identificar desejos implícitos
+- [ ] Definir tratamento para respostas contraditórias
+
+### Preferências Negativas
+
+- [ ] Definir impacto das restrições da cliente
+- [ ] Traduzir "não gosto" em limitações da engine
+- [ ] Definir prioridade entre preferências positivas e negativas
+
+### Integração com a Engine
+
+- [ ] Definir como o perfil estético gera pesos internos
+- [ ] Relacionar intenções aos estilos visuais
+- [ ] Relacionar intenções aos mappings compatíveis
+- [ ] Criar tabela final de intenções estéticas
 
 ---
 
