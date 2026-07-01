@@ -51,9 +51,9 @@
 
 - [x] Definir papel do espaço palpebral na engine
 - [x] Identificar restrições de espaço pequeno
-- [ ] Definir comprimentos máximos por categoria
-- [ ] Formalizar tabela definitiva de comprimentos
-- [ ] Revisar possíveis exceções
+- [x] Definir comprimentos máximos por categoria
+- [x] Formalizar tabela definitiva de comprimentos
+- [x] Revisar possíveis exceções
 
 ---
 
@@ -63,8 +63,8 @@
 - [x] Definir limites para fios delicados
 - [x] Definir limites para fios médios
 - [x] Definir limites para fios fortes
-- [ ] Formalizar tabela definitiva de volumes permitidos
-- [ ] Revisar possíveis exceções
+- [x] Formalizar tabela definitiva de volumes permitidos
+- [x] Revisar possíveis exceções
 
 ---
 
