@@ -1,204 +1,236 @@
-# Mapping Engine - Checklist
+# Mapping Engine - Roadmap
 
-## Arquitetura da Engine
+# 1. Arquitetura da Engine
 
 - [x] Definir objetivo da Mapping Engine
 - [x] Definir fluxo macro da engine
 - [x] Definir ordem de processamento das informações
-- [x] Separar regras gerais das regras específicas dos formatos
-- [x] Definir prioridade das decisões da engine
-- [x] Definir papel do desejo da cliente
+- [x] Definir prioridade das decisões
+- [x] Separar decisões anatômicas das decisões estéticas
+- [x] Definir papel da anatomia
+- [x] Definir papel da intenção estética
 - [x] Definir papel dos estilos visuais
 
 ---
 
-# Base de Conhecimento
+# 2. Base de Conhecimento Anatômica
 
 ## Formatos de Olho
 
-- [x] Definir estrutura padrão de documentação dos formatos
+- [x] Definir estrutura padrão de documentação
 - [x] Documentar olho amendoado
 - [x] Documentar olho redondo
 - [x] Documentar olho monólido
-- [x] Revisar mappings permitidos de todos os formatos
-- [x] Revisar mappings proibidos de todos os formatos
+- [x] Revisar mappings permitidos
+- [x] Revisar mappings proibidos
 
 ---
 
 ## Inclinação
 
-- [x] Definir papel da inclinação na engine
-- [x] Identificar restrições da inclinação caída
-- [x] Identificar características da inclinação neutra
-- [x] Identificar características da inclinação elevada
-- [x] Formalizar tabela definitiva de restrições por inclinação
-- [x] Criar exemplos de adaptação de mapping por inclinação
+- [x] Definir papel da inclinação
+- [x] Documentar inclinação caída
+- [x] Documentar inclinação neutra
+- [x] Documentar inclinação elevada
+- [x] Formalizar tabela definitiva
+- [x] Criar exemplos de adaptação
 
 ---
 
 ## Profundidade
 
-- [x] Definir papel da profundidade na engine
-- [x] Identificar comportamento de olhos profundos
-- [x] Identificar comportamento de olhos protusos
-- [x] Identificar comportamento de olhos neutros
-- [x] Formalizar tabela definitiva de curvaturas permitidas
-- [x] Revisar possíveis exceções
+- [x] Definir papel da profundidade
+- [x] Documentar olho profundo
+- [x] Documentar olho protuso
+- [x] Documentar profundidade neutra
+- [x] Formalizar tabela definitiva
+- [x] Revisar exceções
 
 ---
 
 ## Espaço Palpebral
 
-- [x] Definir papel do espaço palpebral na engine
-- [x] Identificar restrições de espaço pequeno
-- [x] Definir comprimentos máximos por categoria
-- [x] Formalizar tabela definitiva de comprimentos
-- [x] Revisar possíveis exceções
+- [x] Definir papel do espaço palpebral
+- [x] Documentar restrições
+- [x] Formalizar tabela de comprimentos
+- [x] Revisar exceções
 
 ---
 
 ## Estrutura do Fio Natural
 
-- [x] Definir papel da estrutura do fio na engine
-- [x] Definir limites para fios delicados
-- [x] Definir limites para fios médios
-- [x] Definir limites para fios fortes
-- [x] Formalizar tabela definitiva de volumes permitidos
-- [x] Revisar possíveis exceções
+- [x] Definir papel da estrutura do fio
+- [x] Definir limites por resistência
+- [x] Formalizar tabela de volumes
+- [x] Revisar exceções
 
 ---
 
 ## Cobertura Palpebral
 
-- [x] Validar se olho encapuzado deve ser tratado como característica ou formato
-- [x] Levantar referências técnicas sobre classificação de olhos encapuzados
-- [x] Analisar exemplos reais de clientes
-- [x] Definir impacto da cobertura palpebral nos mappings
-- [x] Definir impacto da cobertura palpebral nas curvaturas
-- [x] Definir impacto da cobertura palpebral nos comprimentos
-- [x] Formalizar tabela de cobertura palpebral
-- [x] Criar regras da característica "Encapuzado"
-- [x] Revisar possíveis exceções
+- [x] Validar classificação
+- [x] Documentar impacto nos mappings
+- [x] Documentar impacto nas curvaturas
+- [x] Documentar impacto nos comprimentos
+- [x] Formalizar tabela
+- [x] Criar regras
+- [x] Revisar exceções
 
 ---
 
-## Desejo da Cliente
+# 3. Base de Conhecimento da Intenção Estética
 
-- [x] Levantar desejos mais comuns
-- [x] Definir que o desejo não sobrepõe restrições técnicas
+## Modelagem da Intenção
 
-### Perfil Estético
+- [ ] Levantar desejos mais frequentes
+- [ ] Agrupar desejos equivalentes
+- [ ] Criar taxonomia das intenções
+- [ ] Definir significado estético de cada intenção
+- [ ] Relacionar intenções semelhantes
 
-- [ ] Definir eixos de intenção estética
-- [ ] Agrupar palavras equivalentes
-- [ ] Criar tabela de pesos por intenção estética
-- [ ] Definir prioridade entre intenções conflitantes
+---
 
-### Tradução da Linguagem da Cliente
+## Linguagem da Cliente
 
-- [ ] Mapear frases comuns para intenções estéticas
-- [ ] Definir interpretação de combinações de frases
+- [ ] Mapear frases comuns
+- [ ] Traduzir frases para intenções
+- [ ] Interpretar combinações de desejos
 - [ ] Identificar desejos implícitos
-- [ ] Definir tratamento para respostas contraditórias
-
-### Preferências Negativas
-
-- [ ] Definir impacto das restrições da cliente
-- [ ] Traduzir "não gosto" em limitações da engine
-- [ ] Definir prioridade entre preferências positivas e negativas
-
-### Integração com a Engine
-
-- [ ] Definir como o perfil estético gera pesos internos
-- [ ] Relacionar intenções aos estilos visuais
-- [ ] Relacionar intenções aos mappings compatíveis
-- [ ] Criar tabela final de intenções estéticas
+- [ ] Tratar respostas contraditórias
 
 ---
 
-## Estilos Visuais
+## Preferências da Cliente
 
-- [x] Criar página de estilos visuais
-- [x] Identificar principais estilos
-- [x] Definir que estilos visuais não geram restrições próprias
-- [x] Definir que estilos visuais dependem das decisões anteriores
-- [ ] Documentar características de cada estilo
-- [ ] Definir parâmetros visuais de cada estilo
-- [ ] Relacionar estilos visuais aos desejos da cliente
-- [ ] Revisar possíveis estilos adicionais
+- [ ] Modelar preferências positivas
+- [ ] Modelar preferências negativas
+- [ ] Traduzir "não gosto" em restrições
+- [ ] Definir prioridade entre preferências
 
 ---
 
-# Segmentação Base
+## Atributos Visuais
+
+- [ ] Definir atributos visuais fundamentais
+- [ ] Relacionar intenções aos atributos
+- [ ] Definir intensidade de cada atributo
+- [ ] Identificar conflitos entre atributos
+
+---
+
+## Tradução Técnica
+
+- [ ] Traduzir atributos em parâmetros técnicos
+- [ ] Relacionar atributos aos volumes
+- [ ] Relacionar atributos aos comprimentos
+- [ ] Relacionar atributos às curvaturas
+- [ ] Relacionar atributos aos mappings
+- [ ] Relacionar atributos aos efeitos
+
+---
+
+# 4. Estilos Visuais
+
+- [x] Criar página de estilos
+- [x] Identificar estilos principais
+- [x] Definir papel dos estilos na engine
+
+- [ ] Documentar cada estilo
+- [ ] Definir parâmetros visuais
+- [ ] Relacionar estilos às intenções estéticas
+- [ ] Revisar estilos adicionais
+
+---
+
+# 5. Engine de Decisão
+
+## Espaço de Soluções
+
+- [ ] Definir saída oficial da análise anatômica
+- [ ] Estruturar o Espaço de Soluções
+- [ ] Definir formato interno das permissões
+
+---
+
+## Cruzamento das Decisões
+
+- [ ] Definir entrada da intenção estética
+- [ ] Cruzar anatomia × intenção estética
+- [ ] Definir algoritmo de priorização
+- [ ] Definir geração da recomendação
+
+---
+
+## Resultado Final
+
+- [ ] Definir saída oficial da engine
+- [ ] Estruturar recomendação final
+- [ ] Gerar justificativas técnicas
+
+---
+
+# 6. Segmentação dos Mappings
 
 - [ ] Definir segmentação padrão do Gatinho
 - [ ] Definir segmentação padrão do Esquilo
 - [ ] Definir segmentação padrão da Boneca
-- [ ] Definir segmentação padrão dos demais mappings
-- [ ] Definir adaptação da segmentação aos limites de comprimento
-- [ ] Criar tabela geral de segmentações
+- [ ] Definir segmentação dos demais mappings
+- [ ] Adaptar segmentações às limitações
+- [ ] Criar tabela oficial
 
 ---
 
-# Conflitos Técnicos
+# 7. Conflitos Técnicos
 
 - [ ] Catalogar conflitos conhecidos
-- [ ] Definir regra de resolução para cada conflito
-- [ ] Criar tabela oficial de conflitos
+- [ ] Definir regras de resolução
+- [ ] Criar tabela oficial
 
-### Conflitos a documentar
+### Casos
 
 - [ ] Gatinho × Inclinação caída
-- [ ] Mega volume × Fio delicado
+- [ ] Mega Volume × Fio delicado
 - [ ] Comprimento longo × Espaço pequeno
-- [ ] Curvatura inadequada × Profundidade
-- [ ] Outros conflitos identificados durante a documentação
+- [ ] Curvatura × Profundidade
+- [ ] Novos conflitos encontrados
 
 ---
 
-# Fundamentos Técnicos
+# 8. Exceções
 
-- [ ] Associar fundamentação a todas as regras principais
-- [ ] Revisar justificativas técnicas
+- [ ] Criar catálogo de exceções
+- [ ] Exceções por formato
+- [ ] Exceções por combinação
+- [ ] Formalizar tabela oficial
+
+---
+
+# 9. Fundamentação Técnica
+
+- [ ] Associar fundamentação às regras
+- [ ] Revisar justificativas
 - [ ] Eliminar redundâncias
 
 ---
 
-# Regras de Exceção
+# 10. Casos de Validação
 
-- [ ] Criar página de exceções
-- [ ] Identificar exceções por formato
-- [ ] Identificar exceções por combinação de características
-- [ ] Criar tabela oficial de exceções
-
----
-
-# Resultado da Engine
-
-- [ ] Definir entrada oficial da engine
-- [ ] Definir saída oficial da engine
-- [ ] Documentar estrutura de recomendação final
-- [ ] Documentar justificativas técnicas da recomendação
+- [ ] Definir estrutura padrão
+- [ ] Criar casos básicos
+- [ ] Criar casos para formatos
+- [ ] Criar casos para conflitos
+- [ ] Criar casos para exceções
+- [ ] Validar engine completa
 
 ---
 
-# Casos de Teste
+# 11. Revisão Final
 
-- [ ] Definir estrutura padrão dos testes
-- [ ] Criar primeiros casos de teste
-- [ ] Criar testes para todos os formatos
-- [ ] Criar testes para conflitos
-- [ ] Criar testes para exceções
-- [ ] Criar testes de validação final da engine
-
----
-
-# Revisão Final da Engine
-
-- [ ] Revisar toda a Base de Conhecimento
-- [ ] Revisar todas as tabelas
-- [ ] Revisar conflitos técnicos
+- [ ] Revisar Base Anatômica
+- [ ] Revisar Base de Intenção Estética
+- [ ] Revisar tabelas
+- [ ] Revisar conflitos
 - [ ] Revisar exceções
-- [ ] Revisar casos de teste
-- [ ] Validar fluxo completo da engine
+- [ ] Revisar casos de validação
+- [ ] Validar pipeline completo
 - [ ] Preparar documentação para implementação
