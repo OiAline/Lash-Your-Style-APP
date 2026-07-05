@@ -36,28 +36,40 @@ Cada recomendação gerada deve possuir fundamentação técnica, respeitar as r
 # Fluxo de decisão
 
 ```text
-Cliente
-      │
-      ▼
-Intenção Estética
-      │
-      ▼
-Interpretação da Linguagem
-      │
-      ▼
-Base de Conhecimento
-      │
-      ▼
-Aplicação das Regras
-      │
-      ▼
-Sistema de Score
-      │
-      ▼
-Validação Técnica
-      │
-      ▼
-Sugestão de Mapping
+ ANÁLISE DA CLIENTE
+                        │
+                        ▼
+      Base de Conhecimento Anatômica
+                        │
+                        ▼
+   Avaliação da anatomia e dos fios naturais
+                        │
+                        ▼
+   Geração do espaço de soluções permitidas
+        (restrições + possibilidades)
+                        │
+                        ▼
+      Interpretação da intenção estética
+                        │
+                        ▼
+ Tradução do desejo para atributos visuais
+                        │
+                        ▼
+ Comparação entre:
+
+ • possibilidades técnicas
+ • intenção da cliente
+                        │
+                        ▼
+      Motor de decisão da Engine
+                        │
+        Prioridades • Pesos • Score
+                        │
+                        ▼
+          Melhor estratégia técnica
+                        │
+                        ▼
+          Mapping recomendado
 ```
 
 ---
