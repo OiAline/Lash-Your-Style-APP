@@ -28,7 +28,7 @@ Cada recomendação gerada deve possuir fundamentação técnica, respeitar as r
 # Arquitetura Geral
 
 <p align="center">
-    <img src="./architecture/engine-overview.png" width="900">
+    <img src="Docs/mapping-engine/images/engine-overview.png" width="900">
 </p>
 
 ---
