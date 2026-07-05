@@ -64,7 +64,6 @@ Inclui:
 Docs
 
 ├── Mapping Engine
-├── Protótipo
 ├── Requisitos
 └── Roadmap
 ```
