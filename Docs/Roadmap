@@ -90,22 +90,22 @@
 
 ---
 
-## Linguagem da Cliente
+## Descoberta do Desejo da Cliente
 
-- [ ] Mapear frases comuns
-- [ ] Traduzir frases para intenções
-- [ ] Interpretar combinações de desejos
-- [ ] Identificar desejos implícitos
-- [ ] Tratar respostas contraditórias
+- [ ] Levantar linguagem utilizada pelas clientes
+- [ ] Agrupar expressões equivalentes
+- [ ] Identificar padrões de comunicação
+- [ ] Relacionar expressões às intenções estéticas
+- [ ] Validar compreensão das categorias
 
----
+## Modelagem da Intenção da Cliente
 
-## Preferências da Cliente
-
-- [ ] Modelar preferências positivas
-- [ ] Modelar preferências negativas
-- [ ] Traduzir "não gosto" em restrições
-- [ ] Definir prioridade entre preferências
+- [ ] Definir grupos de perguntas
+- [ ] Definir opções de resposta
+- [ ] Modelar fluxo de decisão
+- [ ] Reduzir ambiguidades entre respostas
+- [ ] Validar combinações possíveis
+- [ ] Identificar conflitos entre respostas
 
 ---
 
