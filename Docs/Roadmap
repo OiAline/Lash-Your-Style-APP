@@ -80,52 +80,83 @@
 
 # 3. Base de Conhecimento da Intenção Estética
 
-## Modelagem da Intenção
+# 3. Base de Conhecimento da Intenção Estética
 
-- [ ] Levantar desejos mais frequentes
-- [ ] Agrupar desejos equivalentes
-- [ ] Criar taxonomia das intenções
-- [ ] Definir significado estético de cada intenção
-- [ ] Relacionar intenções semelhantes
+## 3.1 Descoberta da Linguagem da Cliente
+
+- [x] Levantar frases e expressões mais frequentes
+- [x] Agrupar expressões equivalentes
+- [x] Identificar padrões de comunicação
+- [x] Relacionar frases ao significado estético
+- [x] Validar categorias da linguagem da cliente
 
 ---
 
-## Descoberta do Desejo da Cliente
-
-- [ ] Levantar linguagem utilizada pelas clientes
-- [ ] Agrupar expressões equivalentes
-- [ ] Identificar padrões de comunicação
-- [ ] Relacionar expressões às intenções estéticas
-- [ ] Validar compreensão das categorias
-
-## Modelagem da Intenção da Cliente
+## 3.2 Modelagem da Interface de Intenção
 
 - [ ] Definir grupos de perguntas
 - [ ] Definir opções de resposta
-- [ ] Modelar fluxo de decisão
-- [ ] Reduzir ambiguidades entre respostas
-- [ ] Validar combinações possíveis
-- [ ] Identificar conflitos entre respostas
+- [ ] Definir quais perguntas permitem múltiplas respostas
+- [ ] Identificar combinações conflitantes
+- [ ] Definir funcionamento da opção "Outro"
+- [ ] Definir uso do campo de observações
 
 ---
 
-## Atributos Visuais
+## 3.3 Perfil Estético
 
 - [ ] Definir atributos visuais fundamentais
-- [ ] Relacionar intenções aos atributos
-- [ ] Definir intensidade de cada atributo
-- [ ] Identificar conflitos entre atributos
+- [ ] Documentar o significado de cada atributo
+- [ ] Validar independência entre atributos
+- [ ] Definir escala de intensidade dos atributos
 
 ---
 
-## Tradução Técnica
+## 3.4 Tradução da Linguagem
 
-- [ ] Traduzir atributos em parâmetros técnicos
-- [ ] Relacionar atributos aos volumes
-- [ ] Relacionar atributos aos comprimentos
-- [ ] Relacionar atributos às curvaturas
-- [ ] Relacionar atributos aos mappings
-- [ ] Relacionar atributos aos efeitos
+- [ ] Criar matriz de tradução das respostas
+- [ ] Relacionar cada resposta aos atributos visuais
+- [ ] Definir intensidade da influência de cada resposta
+- [ ] Definir pesos entre categorias
+- [ ] Identificar respostas redundantes
+
+---
+
+## 3.5 Sistema de Score
+
+- [ ] Definir escala de pontuação
+- [ ] Definir cálculo do score
+- [ ] Normalizar resultados
+- [ ] Validar o score utilizando casos reais
+
+---
+
+## 3.6 Regras de Compatibilidade
+
+- [ ] Identificar combinações válidas
+- [ ] Identificar combinações contraditórias
+- [ ] Definir prioridade entre respostas
+- [ ] Definir tratamento para ambiguidades
+
+---
+
+## 3.7 Perfil Técnico das Soluções
+
+- [ ] Definir perfil técnico dos tipos de fio
+- [ ] Definir perfil técnico das curvaturas
+- [ ] Definir perfil técnico dos mappings
+- [ ] Definir perfil técnico dos comprimentos
+- [ ] Criar matriz de compatibilidade técnica
+
+---
+
+## 3.8 Motor de Correspondência
+
+- [ ] Comparar Perfil Estético × Perfis Técnicos
+- [ ] Aplicar restrições anatômicas
+- [ ] Aplicar restrições da cliente
+- [ ] Definir algoritmo de ordenação das soluções
+- [ ] Gerar justificativa da decisão
 
 ---
 
