@@ -1,4 +1,4 @@
-# 🎨 UX Research
+# UX Research
 
 > Understanding people before designing solutions.
 
@@ -10,7 +10,7 @@ O objetivo desta documentação é transformar pesquisas qualitativas em conheci
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Compreender as necessidades reais das clientes.
 - Entender como lash designers tomam decisões.
@@ -21,7 +21,7 @@ O objetivo desta documentação é transformar pesquisas qualitativas em conheci
 
 ---
 
-## 📂 Estrutura
+## Estrutura
 
 ```
 ux/
@@ -51,7 +51,7 @@ ux/
 
 ---
 
-## 🔄 Processo de UX
+## Processo de UX
 
 O desenvolvimento segue uma adaptação do processo de Design Thinking utilizado durante o Google UX Design Certificate.
 
@@ -71,7 +71,7 @@ Cada etapa gera conhecimento que será utilizado para evoluir o produto.
 
 ---
 
-## 🧠 Relação com a Mapping Engine
+## Relação com a Mapping Engine
 
 O UX Research não existe apenas para criar interfaces.
 
@@ -92,7 +92,7 @@ Dessa forma, o comportamento das usuárias influencia tanto a experiência do ap
 
 ---
 
-## 📌 Status
+##  Status
 
 | Etapa | Status |
 |--------|--------|
@@ -104,6 +104,6 @@ Dessa forma, o comportamento das usuárias influencia tanto a experiência do ap
 
 ---
 
-## 🚀 Objetivo Final
+## Objetivo Final
 
 Construir uma experiência capaz de compreender a intenção estética da cliente antes mesmo da criação do mapping, tornando o processo mais previsível, personalizado e fundamentado em pesquisa.
