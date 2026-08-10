@@ -20,15 +20,15 @@ A partir das entrevistas, foram construídos mapas individuais para representar 
 
 ### Participante 01
 
-![Mapa de Empatia — Participante 01](UX/Empathize/images/Empathy Map 01.png)
+![Mapa de Empatia — Participante 01](./images/Empathy-Map-1.png)
 
 ### Participante 02
 
-![Mapa de Empatia — Participante 02](./empathy-map-02.png)
+![Mapa de Empatia — Participante 02](./images/Empathy-Map-2.png)
 
 ### Participante 03
 
-![Mapa de Empatia — Participante 03](./empathy-map-03.png)
+![Mapa de Empatia — Participante 03](./images/Empathy-Map-3.png)
 
 ## Próxima etapa
 
