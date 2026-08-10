@@ -1,20 +1,35 @@
-
-#  Empathize
+# Empathize
 
 A etapa **Empathize** teve como objetivo compreender como lash designers pensam, trabalham e tomam decisões durante o processo de criação de um mapping.
 
-Para isso, foram realizadas entrevistas qualitativas com profissionais da área. Os principais aprendizados foram organizados em Mapas de Empatia servindo como base para a etapa **Define**.
+Para isso, foram realizadas entrevistas qualitativas com profissionais da área. Os principais aprendizados foram sintetizados em Mapas de Empatia, que serviram como base para a etapa **Define**.
 
-## Artefatos
+## Pesquisa
 
-###  Interviews
+Foram realizadas **3 entrevistas semiestruturadas com lash designers**, buscando compreender:
 
-Resumo das entrevistas realizadas com lash designers participantes da pesquisa.
+- como analisam as características da cliente;
+- como interpretam o desejo estético;
+- como escolhem o mapping;
+- quais dificuldades encontram durante essa decisão;
+- quais necessidades e oportunidades existem nesse processo.
 
-###  Empathy Maps
+## Mapas de Empatia
 
-Representação visual dos pensamentos, sentimentos, comportamentos, dores e ganhos identificados durante as entrevistas.
+A partir das entrevistas, foram construídos mapas individuais para representar os principais pensamentos, sentimentos, comportamentos, dores e ganhos identificados durante a pesquisa.
 
-###  Affinity Map
+### Participante 01
 
-Agrupamento dos principais padrões encontrados entre todas as entrevistas, utilizado para identificar temas recorrentes e oportunidades para o produto.
+![Mapa de Empatia — Participante 01](./empathy-map-01.png)
+
+### Participante 02
+
+![Mapa de Empatia — Participante 02](./empathy-map-02.png)
+
+### Participante 03
+
+![Mapa de Empatia — Participante 03](./empathy-map-03.png)
+
+## Próxima etapa
+
+Os aprendizados obtidos durante a pesquisa serão utilizados na etapa **Define**, apoiando a construção da persona, história de usuário, definição do problema e proposta de valor.
