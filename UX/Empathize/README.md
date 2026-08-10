@@ -20,7 +20,7 @@ A partir das entrevistas, foram construídos mapas individuais para representar 
 
 ### Participante 01
 
-![Mapa de Empatia — Participante 01](./empathy-map-01.png)
+![Mapa de Empatia — Participante 01](./images/Empathy Map 01.png)
 
 ### Participante 02
 
