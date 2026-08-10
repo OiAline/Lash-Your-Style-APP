@@ -27,11 +27,8 @@ O objetivo desta documentação é transformar pesquisas qualitativas em conheci
 ux/
 │
 ├── Empathize/
-│   ├── Research
-│   ├── Interviews
-│   ├── Affinity Map
-│   ├── Empathy Map
-│   └── Insights
+│   ├── Emphaty Map
+│   ├── images
 │
 ├── Define/
 │   ├── Personas
